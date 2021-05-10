@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97af7530f644bd846bd94939a7bc2989, type: 3}
+  m_Name: Shoe
+  m_EditorClassIdentifier: 
+  itemCount: 1
+  itemName: Shoe
+  itemSprite: {fileID: 21300034, guid: 03dd1ef6fb163214c9e1ac0242dab3ba, type: 3}
+  itemInfo: "\u8FD9\u662F\u53CC\u978B\u5B50"

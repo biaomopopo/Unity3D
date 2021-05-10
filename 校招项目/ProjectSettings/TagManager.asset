@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sence
+  - Obstacle
+  - Enemy
+  - Bridge
+  - Reward
+  - ScoreText
+  - Groud
+  - Delivery
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Groud
+  - BackGroud
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGroud
+    uniqueID: 2365047235
+    locked: 0
+  - name: Player
+    uniqueID: 2566145507
+    locked: 0
+  - name: Reward
+    uniqueID: 3452367399
+    locked: 0
+  - name: Enemy
+    uniqueID: 1343602245
+    locked: 0
+  - name: Groud
+    uniqueID: 877694681
+    locked: 0
